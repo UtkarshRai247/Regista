@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.pkl
+data/raw/frame_lookup.pkl
+.env
+# Large raw data file exceeds GitHub 100MB limit
+data/raw/la_liga_historical_events.parquet
